@@ -12,7 +12,7 @@
 //define agent info
 	const unsigned char * emailServ = "smtp.163.com";
 	const unsigned char * login_name = "kimffy@163.com";
-	const unsigned char * login_passwd = "163850520";
+	const unsigned char * login_passwd = "*********"; //change passwd here!!
 	const unsigned char * mail_to = "792314903@qq.com";
 
 static char base64_table[64] =
